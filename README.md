@@ -4,6 +4,7 @@ Um projeto de console que converte valores entre moedas utilizando taxas de câm
 <hr>
 
 📊 Funcionalidades
+
 ✔️ Conversão entre 6 pares de moedas:
 
 USD (Dólar) ↔ ARS (Peso Argentino)
@@ -35,6 +36,7 @@ Este projeto está sob a licença MIT.
 <hr>
 
 📌 Estrutura do Projeto
+
 📂 conversor-moedas-java/  
 ├── 📂 src/  
 │   └── ConversorMoedas.java  
