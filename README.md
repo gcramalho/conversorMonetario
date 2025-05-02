@@ -31,6 +31,7 @@ Conta na Exchange Rate API (para obter uma chave de API gratuita)
 <hr>
 
 📜 Licença
+
 Este projeto está sob a licença MIT.
 
 <hr>
