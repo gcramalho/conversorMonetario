@@ -31,6 +31,8 @@ Conta na Exchange Rate API (para obter uma chave de API gratuita)
 📜 Licença
 Este projeto está sob a licença MIT.
 
+<hr>
+
 📌 Estrutura do Projeto
 📂 conversor-moedas-java/  
 ├── 📂 src/  
