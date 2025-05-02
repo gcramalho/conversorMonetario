@@ -18,6 +18,7 @@ USD ↔ COP (Peso Colombiano)
 <hr>
 
 🛠️ Tecnologias e Pré-Requisitos
+
 Java 11+
 
 GSON (para manipulação de JSON)
